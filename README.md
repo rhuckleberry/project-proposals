@@ -1,2 +1,2 @@
 # project-proposals
-A list of project proposals. Project ideas that I have and want to do when I have time.
+This is a list of project proposals for projects I want to complete when I have time to do so. :)
